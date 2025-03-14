@@ -1,7 +1,7 @@
 <h4> Hey there! My name is Julia Michetti <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="23px"></h4>
 Welcome to my way of decoding the world — or code it.
 
-![code](https://cdn.discordapp.com/attachments/692778197917499422/1334909774612922479/julia_git.png?ex=67aac55b&is=67a973db&hm=16f487a2773213ba9add72831c80259589599b381ce17589ba4805e05fe20401&)
+![code](https://i.imgur.com/V9kHDfL.png)
 
 **<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> about me:**
 Computer Science student fascinated by the world of aviation ✈︎ 
@@ -13,3 +13,4 @@ C, C++, Java, CSS, HTML, and JavaScript
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaagainagain)](https://github.com/anuraghazra/github-readme-stats)
 
 If you're looking for a skill I have, send me an email [juliamichetti.dev@gmail.com] ❤︎
+
